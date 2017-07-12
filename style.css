@@ -111,9 +111,6 @@ header h5 {
 /*=====================================
            ABOUT SECTION
 ======================================*/
-.about {
-    
-}
 .about p {
 	color: #2e2e2e;
 }
@@ -122,9 +119,6 @@ header h5 {
 /*=====================================
          FEATURED WORK SECTION
 ======================================*/
-.featured-work {
-	
-}
 
 .showcase {
 	display: flex;
@@ -151,13 +145,13 @@ figure a:hover {
 
 figure a img {
 	width: 300px;
-    height: 250px;
+        height: 250px;
 }
 
 figure a figcaption {
 	width: 300px;
     position: absolute;
-    bottom: -240px;
+    bottom: -100px;
     -webkit-transition: all 0.2s ease-out;
 	   -moz-transition: all 0.2s ease-out;
 	     -o-transition: all 0.2s ease-out;
@@ -173,23 +167,23 @@ figcaption h5 {
 	margin-left: 10px;
 	margin-bottom: 10px;	
 	padding: 8px 10px; 
-    background: rgba(46,46,46, 0.9);
-    color: #fff;
-    font-weight: normal;
+        background: rgba(46,46,46, 0.9);
+        color: #fff;
+       font-weight: normal;
 }
 
 figcaption p {
 	width: 100%;
-	height: 240px;
+	height: 100px;
 	margin-bottom: 0;
 	padding: 12px 20px;
-    color: #fff;
-    background: rgba(46,46,46, 0.9);
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 20px;
-    line-height: 1.4;
-    letter-spacing: .1rem;
-    font-weight: 300;
+        color: #fff;
+        background: rgba(46,46,46, 0.9);
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 20px;
+        line-height: 1.4;
+        letter-spacing: .1rem;
+        font-weight: 300;
 }
 
 
@@ -255,14 +249,14 @@ footer .logo:before {
 	   -moz-transition: all 0.2s linear;
 	     -o-transition: all 0.2s linear;
 	        transition: all 0.3s linear;
-            transition: all 0.3s linear; 
+               transition: all 0.3s linear; 
 }
 
 footer .logo:hover:before {
 	opacity: 1;
 	-webkit-transform: translateY(5px);
-       -moz-transform: translateY(5px);
-         -o-transform: translateY(5px);
+           -moz-transform: translateY(5px);
+             -o-transform: translateY(5px);
 	        transform: translateY(5px);
 
 }

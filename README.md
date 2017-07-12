@@ -2,11 +2,11 @@
 
 This is the second version of my first portfolio built with HTML5, CSS3, and Resoposive Design.
 
-1. The showcase projects are designed as cards which will flip over on hover. 
+1. Responsive design: flexbox and @media
 
-2. For each project card, the front side is a sreenshot of the project, and the back side will be a simple description of the project.
+2. Interactive showcase:  CSS3 transition effect on hover (project descriptions slide up).
 
-3. All cards are linked to relevant repositories on Github.
+3. All projects are linked to relevant repositories on Github.
 
 I improved my resoponsive design and css transition & transform skills while making this portfolio.
 However, I am not quite happy with this version :(. 
